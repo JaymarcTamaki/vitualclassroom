@@ -267,7 +267,7 @@ if(isset($_POST['search__btn'])){
                                                 }
                                                 else
                                                 {
-                                                    echo "<h5> No Record Found </h5>";
+                                                    echo "<h5> No Record Found! </h5>";
                                                 }
                                             ?>
                                             
